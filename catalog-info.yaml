@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "linz-ssr"
+  description: "linz-ssr"
+  annotations:
+    github.com/project-slug: chrisdoc-org/linz-ssr
+    backstage.io/techdocs-ref: url:https://github.com/chrisdoc-org/linz-ssr
+spec:
+  type: website
+  lifecycle: experimental
+  owner: "chrisdoc-org"

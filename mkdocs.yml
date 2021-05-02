@@ -1,0 +1,8 @@
+site_name: "linz-ssr"
+site_description: "linz-ssr"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
